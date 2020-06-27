@@ -6,7 +6,7 @@ import pyperclip as clip
 
 
 driver = None
-sec = None
+src = None
 dst = None
 
 
