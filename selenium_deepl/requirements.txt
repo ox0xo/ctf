@@ -1,0 +1,3 @@
+selenium
+chromedriver-binary==83.*
+pyperclip
